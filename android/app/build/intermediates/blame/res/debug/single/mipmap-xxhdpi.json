@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mobilecore/Desktop/test/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/mobilecore/Desktop/test/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mobilecore/Desktop/Vote_newVersion/Vote/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/mobilecore/Desktop/Vote_newVersion/Vote/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mobilecore/Desktop/Votes/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/mobilecore/Desktop/Votes/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

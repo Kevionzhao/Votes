@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mobilecore/Desktop/test/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mobilecore/.android/build-cache/473777cb2fe1be3827f53b6386e9f8fee6f61bb8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mobilecore/Desktop/test/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mobilecore/.android/build-cache/473777cb2fe1be3827f53b6386e9f8fee6f61bb8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

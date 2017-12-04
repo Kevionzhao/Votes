@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mobilecore/.android/build-cache/5f1985fa37a0c45a23b15fb12a98e0bb27cfe0fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
+        <dex dex="/Users/mobilecore/Desktop/Votes/android/app/build/intermediates/pre-dexed/debug/classes_0877d075247d0cf7510c11a61d4eef623ae45847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobilecore/.android/build-cache/5f1985fa37a0c45a23b15fb12a98e0bb27cfe0fb/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mobilecore/Desktop/Votes/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_1b8d37e1c20d6529fce7a54a34edadd6814c38f3.jar" />
+    </item>
+
+</items>

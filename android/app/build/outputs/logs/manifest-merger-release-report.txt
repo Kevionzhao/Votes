@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:2:5-23
+		INJECTED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.49.3] /Users/mobilecore/.android/build-cache/a5d664f564911f96d85d145da3f84cec9faa4b02/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.facebook.react:react-native:0.49.3] /Users/mobilecore/.android/build-cache/a5d664f564911f96d85d145da3f84cec9faa4b02/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/mobilecore/.android/build-cache/473777cb2fe1be3827f53b6386e9f8fee6f61bb8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/mobilecore/.android/build-cache/2e5aa2a3eb213a6908504a65f3d5a1125264a747/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/mobilecore/.android/build-cache/7444e0748d90d99cea7780b0fdb40662868ffc99/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/mobilecore/.android/build-cache/8801c7156f1decf5ff731cdbda6c2da2abc62a36/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/mobilecore/.android/build-cache/6bc0eab8610a825a1934b2823cfbe3a7660414a4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/mobilecore/.android/build-cache/e9805627045e3ffca6cc458cdd7ae9d163d31692/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/mobilecore/.android/build-cache/6f944761c68b9ca53de6b2c393ccd9269b40509d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/mobilecore/.android/build-cache/516fb0bc65635b2295c175407a2d1c6c9a6b26af/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/mobilecore/.android/build-cache/1b98d9f911bd306c8d56a4f9668c382d663b924a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/mobilecore/.android/build-cache/c642860a479149c3262e7abc00e472e73a55d483/output/AndroidManifest.xml:2:3-70
+	android:targetSdkVersion
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [com.facebook.react:react-native:0.49.3] /Users/mobilecore/.android/build-cache/a5d664f564911f96d85d145da3f84cec9faa4b02/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/mobilecore/.android/build-cache/473777cb2fe1be3827f53b6386e9f8fee6f61bb8/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/mobilecore/.android/build-cache/2e5aa2a3eb213a6908504a65f3d5a1125264a747/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/mobilecore/.android/build-cache/c642860a479149c3262e7abc00e472e73a55d483/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/mobilecore/.android/build-cache/bdecb3b6c317f129ba9f890bcc64133a2ca40be7/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:allowBackup
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:icon
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:theme
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.vote.MainActivity
+ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/mobilecore/Desktop/test/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

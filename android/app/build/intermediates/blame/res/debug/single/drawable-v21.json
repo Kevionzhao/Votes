@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mobilecore/Desktop/Vote_newVersion/Vote/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/mobilecore/.android/build-cache/473777cb2fe1be3827f53b6386e9f8fee6f61bb8/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/mobilecore/Desktop/test/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/mobilecore/.android/build-cache/473777cb2fe1be3827f53b6386e9f8fee6f61bb8/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/mobilecore/Desktop/Votes/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/mobilecore/.android/build-cache/473777cb2fe1be3827f53b6386e9f8fee6f61bb8/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/mobilecore/Desktop/Vote_newVersion/Vote/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/mobilecore/.android/build-cache/473777cb2fe1be3827f53b6386e9f8fee6f61bb8/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/mobilecore/Desktop/Votes/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/mobilecore/.android/build-cache/473777cb2fe1be3827f53b6386e9f8fee6f61bb8/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/mobilecore/Desktop/test/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/mobilecore/.android/build-cache/473777cb2fe1be3827f53b6386e9f8fee6f61bb8/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
